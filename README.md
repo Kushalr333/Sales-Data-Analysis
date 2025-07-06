@@ -1,4 +1,5 @@
-# 📊 Sales Analytics Dashboard - Power BI Project
+# 📊 Sales Analytics Dashboard - Power BI Project![image](https://github.com/user-attachments/assets/e00a0c80-6737-4ded-a7ef-aa525064269d)
+
 
 This repository contains a Power BI dashboard designed to analyze and visualize sales data. It provides actionable insights into sales performance, helping businesses make informed decisions based on key metrics.
 
